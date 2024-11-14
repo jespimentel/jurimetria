@@ -1,2 +1,2 @@
 # jurimetria
-Estudos de jurimetria para o curso de extensão da ESMP
+Estudos relativos ao Curso de Extensão em Jurimetria da ESMP (2024-2025)
